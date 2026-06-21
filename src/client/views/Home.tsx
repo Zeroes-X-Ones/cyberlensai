@@ -205,7 +205,7 @@ const Home = (): JSX.Element => {
         {/* <FindIpButton onClick={findIpAddress}>Or, find my IP</FindIpButton> */}
         {errorMsg && <ErrorMessage>{errorMsg}</ErrorMessage>}
         <Button type="submit" styles="width: calc(100% - 1rem);" size="large" onClick={submit}>
-          Analyze!
+          Analyze this
         </Button>
       </UserInputMain>
       <SponsorCard>
