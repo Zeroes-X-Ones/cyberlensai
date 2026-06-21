@@ -148,7 +148,7 @@ const About = (): JSX.Element => {
       <AboutContainer>
         <Nav>
           <HeaderLinkContainer>
-            <a target="_blank" rel="noreferrer" href="https://github.com/lissy93/web-check">
+            <a target="_blank" rel="noreferrer" href="https://github.com/Zeroes-X-Ones">
               <Button>View on GitHub</Button>
             </a>
           </HeaderLinkContainer>
@@ -207,7 +207,7 @@ const About = (): JSX.Element => {
             <a
               target="_blank"
               rel="noreferrer"
-              href="https://github.com/Lissy93/web-check/blob/master/LICENSE"
+              href="https://github.com/Zeroes-X-Ones/blob/master/LICENSE"
             >
               MIT license
             </a>
@@ -215,7 +215,7 @@ const About = (): JSX.Element => {
             settings.
             <br />
             Source code and self-hosting docs are available on{' '}
-            <a target="_blank" rel="noreferrer" href="https://github.com/lissy93/web-check">
+            <a target="_blank" rel="noreferrer" href="https://github.com/Zeroes-X-Ones">
               GitHub
             </a>
             . If you've found this service useful, consider{' '}
@@ -322,7 +322,7 @@ const About = (): JSX.Element => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://app.netlify.com/start/deploy?repository=https://github.com/lissy93/web-check"
+            href="https://app.netlify.com/start/deploy?repository=https://github.com/Zeroes-X-Ones"
           >
             <img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />
           </a>
@@ -356,7 +356,7 @@ const About = (): JSX.Element => {
             Option #4 - Manual
           </Heading>
           <pre>
-            git clone https://github.com/Lissy93/web-check.git
+            git clone https://github.com/Zeroes-X-Ones.git
             <br />
             cd web-check # Move into the project directory
             <br />
@@ -374,7 +374,7 @@ const About = (): JSX.Element => {
           <p>
             More detailed installation and setup instructions can be found in the GitHub repository
             -{' '}
-            <a target="_blank" rel="noreferrer" href="https://github.com/lissy93/web-check#readme">
+            <a target="_blank" rel="noreferrer" href="https://github.com/Zeroes-X-Ones#readme">
               github.com/lissy93/web-check
             </a>
           </p>
@@ -445,7 +445,7 @@ const About = (): JSX.Element => {
             License
           </Heading>
           <b>
-            <a target="_blank" rel="noreferrer" href="https://github.com/lissy93/web-check">
+            <a target="_blank" rel="noreferrer" href="https://github.com/Zeroes-X-Ones">
               Web-Check
             </a>{' '}
             is distributed under the MIT license, ©{' '}

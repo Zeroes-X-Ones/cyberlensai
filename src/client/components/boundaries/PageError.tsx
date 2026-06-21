@@ -99,7 +99,7 @@ class ErrorBoundary extends React.Component<ErrorBoundaryProps, ErrorBoundarySta
               <Link to="/">
                 <Button>Go back Home</Button>
               </Link>
-              <a target="_blank" rel="noreferrer" href="https://github.com/lissy93/web-check">
+              <a target="_blank" rel="noreferrer" href="https://github.com/Zeroes-X-Ones">
                 <Button>View on GitHub</Button>
               </a>
             </HeaderLinkContainer>

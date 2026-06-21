@@ -72,7 +72,7 @@ The aim is to help you easily understand, optimize and secure your website.
 
 </details>
 
-[![Screenshot](https://i.ibb.co/r0jXN6s/web-check.png)](https://github.com/Lissy93/web-check/tree/master/.github/screenshots)
+[![Screenshot](https://i.ibb.co/r0jXN6s/web-check.png)](https://github.com/Zeroes-X-Ones/tree/master/.github/screenshots)
 
 ### Live Demo
 
@@ -86,11 +86,11 @@ The source for this repo is mirrored to CodeBerg, available at: **[codeberg.org/
 
 Build & Deploys: [![Netlify Status](https://api.netlify.com/api/v1/badges/c43453c1-5333-4df7-889b-c1d2b52183c0/deploy-status)](https://app.netlify.com/sites/web-check/deploys)
 [![Vercel Status](https://therealsujitk-vercel-badge.vercel.app/?app=web-check-ten)](https://vercel.com/as93/web-check/)
-[![🐳 Build + Publish Docker Image](https://github.com/Lissy93/web-check/actions/workflows/docker.yml/badge.svg)](https://github.com/Lissy93/web-check/actions/workflows/docker.yml)
-[![🚀 Deploy to AWS](https://github.com/Lissy93/web-check/actions/workflows/deploy-aws.yml/badge.svg)](https://github.com/Lissy93/web-check/actions/workflows/deploy-aws.yml)
+[![🐳 Build + Publish Docker Image](https://github.com/Zeroes-X-Ones/actions/workflows/docker.yml/badge.svg)](https://github.com/Zeroes-X-Ones/actions/workflows/docker.yml)
+[![🚀 Deploy to AWS](https://github.com/Zeroes-X-Ones/actions/workflows/deploy-aws.yml/badge.svg)](https://github.com/Zeroes-X-Ones/actions/workflows/deploy-aws.yml)
 <br />
-Repo Management & Miscellaneous: [![🪞 Mirror to Codeberg](https://github.com/Lissy93/web-check/actions/workflows/mirror.yml/badge.svg)](https://github.com/Lissy93/web-check/actions/workflows/mirror.yml)
-[![💓 Inserts Contributors & Sponsors](https://github.com/Lissy93/web-check/actions/workflows/credits.yml/badge.svg)](https://github.com/Lissy93/web-check/actions/workflows/credits.yml)
+Repo Management & Miscellaneous: [![🪞 Mirror to Codeberg](https://github.com/Zeroes-X-Ones/actions/workflows/mirror.yml/badge.svg)](https://github.com/Zeroes-X-Ones/actions/workflows/mirror.yml)
+[![💓 Inserts Contributors & Sponsors](https://github.com/Zeroes-X-Ones/actions/workflows/credits.yml/badge.svg)](https://github.com/Zeroes-X-Ones/actions/workflows/credits.yml)
 
 ### Features
 
@@ -869,7 +869,7 @@ Read more here: **[web-check.xyz/about](https://web-check.xyz/about)**
 
 Click the button below, to deploy to Netlify 👇
 
-[![Deploy to Netlify](https://img.shields.io/badge/Deploy-Netlify-%2330c8c9?style=for-the-badge&logo=netlify&labelColor=1e0e41 "Deploy Web-Check to Netlify, via 1-Click Script")](https://app.netlify.com/start/deploy?repository=https://github.com/lissy93/web-check)
+[![Deploy to Netlify](https://img.shields.io/badge/Deploy-Netlify-%2330c8c9?style=for-the-badge&logo=netlify&labelColor=1e0e41 "Deploy Web-Check to Netlify, via 1-Click Script")](https://app.netlify.com/start/deploy?repository=https://github.com/Zeroes-X-Ones)
 
 ### Deploying - Option #2: Vercel
 
@@ -887,7 +887,7 @@ Run `docker run -p 3000:3000 lissy93/web-check`, then open [`localhost:3000`](ht
 You can get the Docker image from:
 
 - DockerHub: [`lissy93/web-check`](https://hub.docker.com/r/lissy93/web-check)
-- GHCR: [`ghcr.io/lissy93/web-check`](https://github.com/Lissy93/web-check/pkgs/container/web-check)
+- GHCR: [`ghcr.io/lissy93/web-check`](https://github.com/Zeroes-X-Ones/pkgs/container/web-check)
 - Or build the image yourself by cloning the repo and running `docker build -t web-check .`
 
 </details>
@@ -897,7 +897,7 @@ You can get the Docker image from:
 Install the prerequisites listed in the [Developing](#developing) section, then run:
 
 ```bash
-git clone https://github.com/Lissy93/web-check.git  # Download the code from GitHub
+git clone https://github.com/Zeroes-X-Ones.git  # Download the code from GitHub
 cd web-check                                        # Navigate into the project dir
 yarn install                                        # Install the NPM dependencies
 yarn build                                          # Build the app for production
@@ -977,14 +977,14 @@ For Code of Conduct, see [Contributor Convent](https://www.contributor-covenant.
 
 To get started, fork the repo, make your changes, add, commit and push the code, then come back here to open a pull request. If you're new to GitHub or open source, [this guide](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3#let-s-make-our-first-pull-request-) or the [git docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) may help you get started, but feel free to reach out if you need any support.
 
-[![Submit a PR](https://img.shields.io/badge/Submit_a_PR-GitHub-%23060606?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Lissy93/web-check/compare)
+[![Submit a PR](https://img.shields.io/badge/Submit_a_PR-GitHub-%23060606?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Zeroes-X-Ones/compare)
 
 ### Reporting Bugs
 
 If you've found something that doesn't work as it should, or would like to suggest a new feature, then go ahead and raise a ticket on GitHub.
 For bugs, please outline the steps needed to reproduce, and include relevant info like system info and resulting logs.
 
-[![Raise an Issue](https://img.shields.io/badge/Raise_an_Issue-GitHub-%23060606?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Lissy93/web-check/issues/new/choose)
+[![Raise an Issue](https://img.shields.io/badge/Raise_an_Issue-GitHub-%23060606?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Zeroes-X-Ones/issues/new/choose)
 
 ### Supporting
 
@@ -999,7 +999,7 @@ It's thanks to the support of the community that this project is able to be free
 
 Credit to the following users for contributing to Web-Check
 
-[![contributors badge](https://readme-contribs.as93.net/contributors/lissy93/web-check?perRow=10&shape=squircle)](https://github.com/lissy93/web-check/graphs/contributors)
+[![contributors badge](https://readme-contribs.as93.net/contributors/lissy93/web-check?perRow=10&shape=squircle)](https://github.com/Zeroes-X-Ones/graphs/contributors)
 
 ### Sponsors
 
@@ -1011,7 +1011,7 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
 
 ## License
 
-> _**[Lissy93/Web-Check](https://github.com/Lissy93/web-check)** is licensed under [MIT](https://github.com/Lissy93/web-check/blob/HEAD/LICENSE) © [Alicia Sykes](https://aliciasykes.com) 2023 - 2026._<br>
+> _**[Lissy93/Web-Check](https://github.com/Zeroes-X-Ones)** is licensed under [MIT](https://github.com/Zeroes-X-Ones/blob/HEAD/LICENSE) © [Alicia Sykes](https://aliciasykes.com) 2023 - 2026._<br>
 > <sup align="right">For information, see <a href="https://tldrlegal.com/license/mit-license">TLDR Legal > MIT</a></sup>
 
 <details>

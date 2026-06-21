@@ -243,7 +243,7 @@ const Home = (): JSX.Element => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://github.com/lissy93/web-check"
+            href="https://github.com/Zeroes-X-Ones"
             title="Check out the source code and documentation on GitHub, and get support or contribute"
           >
             <Button>View on GitHub</Button>
@@ -251,7 +251,7 @@ const Home = (): JSX.Element => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://app.netlify.com/start/deploy?repository=https://github.com/lissy93/web-check"
+            href="https://app.netlify.com/start/deploy?repository=https://github.com/Zeroes-X-Ones"
             title="Deploy your own private or public instance of Web-Check to Netlify"
           >
             <Button>Deploy your own</Button>

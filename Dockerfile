@@ -63,7 +63,7 @@ ENV CHROME_PATH='/usr/bin/chromium' \
 LABEL org.opencontainers.image.title="Web-Check" \
       org.opencontainers.image.description="All-in-one OSINT tool for analysing any website" \
       org.opencontainers.image.url="https://web-check.xyz" \
-      org.opencontainers.image.source="https://github.com/lissy93/web-check" \
+      org.opencontainers.image.source="https://github.com/Zeroes-X-Ones" \
       org.opencontainers.image.licenses="MIT" \
       org.opencontainers.image.vendor="Alicia Sykes"
 
